@@ -1,4 +1,4 @@
-var secret = "Nothing is here";
+var secret = "";
 // Determines button clicked via id
 function myFunction(id) {
     document.calc.result.value+=id;
