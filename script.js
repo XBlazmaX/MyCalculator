@@ -1,4 +1,4 @@
-var secret = "JICCTF{G1tHub_C0mm1t5_4r3_Imp0rt4nt}";
+var secret = "Nothing is here";
 // Determines button clicked via id
 function myFunction(id) {
     document.calc.result.value+=id;
